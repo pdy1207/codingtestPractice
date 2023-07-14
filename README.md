@@ -1,5 +1,5 @@
 <div align="center">
-        <img width="50%" alt="image" src="https://github.com/pdy1207/CODINGTEST_PRACTICE/assets/110442250/5d91522a-0263-41a5-a2f6-cd21a67ef245">
+        <img width="65%" alt="image" src="https://github.com/pdy1207/CODINGTEST_PRACTICE/assets/110442250/5d91522a-0263-41a5-a2f6-cd21a67ef245">
 </div>
 
 ## CODINGTEST_PRACTICE
@@ -27,3 +27,8 @@ function solution(num_list, n) {
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff) 
+
+## 아래의 페이지에서 제공하는 문제들로 구성되어 있습니다.
+<p align="center">
+        <img width="100%" alt="image" src="https://velog.velcdn.com/images/ujone/post/f6b97f68-67ce-498d-b8c2-474dd9edae8f/image.png">        
+</p>
