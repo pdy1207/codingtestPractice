@@ -4,9 +4,10 @@
 
 ## CODINGTEST_PRACTICE
 
-프로그래머스, 백준 등 코딩테스트 풀이를 기록하는 저장소입니다. 1일 1문제를 목표로 하고있지만...남는시간 틈틈히 활용 해보려고 합니다.
-공부/알고리즘에 관해서는 Algorithm Directory / coding Test 차례로 update 예정입니다.
-해당 에디터에 관해서는 Jupyter Notebook 활용합니다.
+프로그래머스, 백준 등 코딩테스트 풀이를 기록하는 저장소입니다. <s>1일 1문제를 목표로 하고있지만...</s> 남는시간 틈틈히 활용 해보려고 합니다. <br>
+공부/알고리즘에 관해서는 Algorithm Directory / coding Test 차례로 update 예정입니다. <br>
+해당 에디터에 관해서는 알고리즘은 vscode 그 외 Jupyter Notebook 활용합니다.
+
 
 ## EX
 
