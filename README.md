@@ -4,9 +4,10 @@
 
 ## CODINGTEST_PRACTICE
 
-프로그래머스, 백준 등 코딩테스트 풀이를 기록하는 저장소입니다. 1일 1문제를 목표로 하고있지만...남는시간 틈틈히 활용 해보려고 합니다.
-공부/알고리즘에 관해서는 Algorithm Directory / coding Test 차례로 update 예정입니다.
-해당 에디터에 관해서는 Jupyter Notebook 활용합니다.
+프로그래머스, 백준 등 코딩테스트 풀이를 기록하는 저장소입니다. <s>1일 1문제를 목표로 하고있지만...</s> 남는시간 틈틈히 활용 해보려고 합니다. <br>
+공부/알고리즘에 관해서는 Algorithm Directory / coding Test 차례로 update 예정입니다. <br>
+해당 에디터에 관해서는 알고리즘은 vscode 그 외 Jupyter Notebook 활용합니다.
+
 
 ## EX
 
@@ -28,8 +29,10 @@ function solution(num_list, n) {
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 아래의 페이지에서 제공하는 문제들로 구성되어 있습니다.
 <p align="center">
         <img width="100%" alt="image" src="https://velog.velcdn.com/images/ujone/post/f6b97f68-67ce-498d-b8c2-474dd9edae8f/image.png">        
+        <img width="100%" alt="image" src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=21645">        
 </p>
