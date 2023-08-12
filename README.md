@@ -28,6 +28,7 @@ function solution(num_list, n) {
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=fff) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 아래의 페이지에서 제공하는 문제들로 구성되어 있습니다.
 <p align="center">
