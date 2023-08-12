@@ -34,4 +34,5 @@ function solution(num_list, n) {
 ## 아래의 페이지에서 제공하는 문제들로 구성되어 있습니다.
 <p align="center">
         <img width="100%" alt="image" src="https://velog.velcdn.com/images/ujone/post/f6b97f68-67ce-498d-b8c2-474dd9edae8f/image.png">        
+        <img width="100%" alt="image" src="https://www.askedtech.com/api/kords/admin/product/image.jpg?type=org&id=21645">        
 </p>
