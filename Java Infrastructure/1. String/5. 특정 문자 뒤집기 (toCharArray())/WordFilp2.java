@@ -8,7 +8,7 @@ class WordFilp2 {
         while(lt<rt){
             if(!Character.isAlphabetic(s[lt])){
                 lt++;
-            } else if (!Character.isAlphabetic(s[lt])){
+            } else if (!Character.isAlphabetic(s[rt])){
                 rt--; 
             } else {
                 char tmp = s[lt];
